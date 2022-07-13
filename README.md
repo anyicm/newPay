@@ -2,6 +2,9 @@
 
 newPay 是一個将useshop 扩展调用第三方支付defipay 的付款 回调的 gin框架 编写的中转程序
 
+defipay 文档：`https://defipay.stoplight.io/docs/defipay-api-english-docs/n0ygelefq08x1-`
+ueeshop 文档：`https://www.showdoc.com.cn/p/106d4c87bcb8a53d8490052b83b9d48d`
+
 ## 用法
 
 ### 所需要的环境 go 1.8+
